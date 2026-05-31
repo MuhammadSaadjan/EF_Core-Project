@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EF_Core Project/EF_Core Web.csproj" />
+  <Project Path="EF_Core_ConsoleApp/EF_Core_ConsoleApp.csproj" />
+  <Project Path="EF_Core_DataAccess/EF_Core_DataAccess.csproj" />
+  <Project Path="EF_Core_Model/EF_Core_Model.csproj" />
+</Solution>
